@@ -1,0 +1,4 @@
+sayilar12 24 46#
+sayilar14 26 48#
+#12 25 46sayilar
+sayilar12 24 46+

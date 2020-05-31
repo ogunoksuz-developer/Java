@@ -1,0 +1,1 @@
+nesneEkleme.pencereOlustur
